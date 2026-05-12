@@ -55,6 +55,8 @@ Even the most extreme cases are contained within 3 days of lateness, suggesting 
 Order-level profitability was classified into three tiers based on Order Profit Per Order. While 80.7% of orders
 are profitable, the 18.7% loss-making share represents a meaningful drag that is disproportionately
 concentrated among delayed shipments.
+
+
 <img width="439" height="410" alt="image" src="https://github.com/user-attachments/assets/396254e8-24a9-4342-bd3a-03237bc00dab" />
 
 Figure 1: Profitability Distribution
